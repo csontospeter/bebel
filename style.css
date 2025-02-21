@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&family=Sigmar&display=swap');
+
+body, h1, h2, h3 {
+    font-family: "Sigmar", serif;
+}
+
+p {
+    font-family: "Grechen Fuemen", serif;
+    text-align: left;
+    text-indent: 15px;
+    line-height: 1.5;
+}
