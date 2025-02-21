@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&family=Sigmar&display=swap');
 
+body {
+    background-image: linear-gradient(antiquewhite, #fff);
+    background-repeat: no-repeat;
+}
+
+header, footer {
+    text-align: center;
+}
+
 body, h1, h2, h3 {
     font-family: "Sigmar", serif;
 }
